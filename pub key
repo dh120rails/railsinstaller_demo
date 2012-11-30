@@ -1,0 +1,47 @@
+
+# Rails Environment Configuration.
+
+Your git configuration is incomplete.
+user.name and user.email are required for properly using git and services such
+as GitHub ( http://github.com/ ).
+
+ Please enter your name, for example mine is: Wayne E. Seguin
+name > Doug Hartley
+Setting user.name to Doug Hartley
+
+ Please enter your email address, for example mine is: wayneeseguin@gmail.com
+email > douglas.hartley.me@gmail.com
+Setting user.email to douglas.hartley.me@gmail.com
+'clip' is not recognized as an internal or external command,
+operable program or batch file.
+
+---
+git:
+  user.name:  Doug Hartley
+  user.email: douglas.hartley.me@gmail.com
+  version:    git version 1.7.9.msysgit.0
+
+ruby:
+  bin:        C:/RailsInstaller/Ruby1.9.2/bin/ruby.exe
+  version:    ruby 1.9.3p125 (2012-02-16) [i386-mingw32]
+
+rails:
+  bin:        C:/RailsInstaller/Ruby1.9.2/bin/rails.bat
+  version:    Rails 3.2.1
+
+ssh:
+  public_key_location: C:\Documents and Settings\e9783099/.ssh/id_rsa.pub
+  public_key_contents: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAu+9mTiNvTTolwyKE+/r2R
+wZpY/clq4C1aNIKSLhS9tyICx2A08PM1v6thAorMha4kSihQ56f6v8oWBbJx5HGXsbWS0gnLPLiakOrf
+RW/cvCxOi8G+b/EMJ5Kd9ffc815B2RcJNtcHs/Id0+4MZdpaBZ3nT+zyFV8syvwpZNcC5WdH8JQ/mGr5
+Lp4kB6lz8hcWMULfuqEI6FbnyhDsCox/47n5I/4N9/HrLDqqDxm01M5SbcZbU7y6GmdvfDFAJvTDpzdM
+qM8fdLUo23wE4WcPakhstwGeXbpXTUm1YUbHCT1PxbmdkBFF9hqGLxUTTmwxAtFXsOY4OW/nUnqWPQXW
+Q== Doug Hartley <douglas.hartley.me@gmail.com>
+
+
+NOTES:
+
+  Your public ssh key (id_rsa.pub) has been automatically generated and copied t
+o your clipboard.
+
+C:\Sites>
